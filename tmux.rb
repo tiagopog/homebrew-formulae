@@ -2,7 +2,7 @@ class Tmux < Formula
   desc "Terminal multiplexer"
   homepage "https://tmux.github.io/"
   url "https://github.com/tmux/tmux/releases/download/2.4/tmux-2.4.tar.gz"
-  sha256 "b17cd170a94d7b58c0698752e1f4f263ab6dc47425230df7e53a6435cc7cd7e8"
+  sha256 "757d6b13231d0d9dd48404968fc114ac09e005d475705ad0cd4b7166f799b349"
 
   bottle do
     sha256 "0ca2e76822980dcc009fde38379f7546b6568975d9dc4f2a6a312e32fce186f8" => :high_sierra
